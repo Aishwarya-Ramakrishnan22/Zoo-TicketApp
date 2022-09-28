@@ -1,13 +1,12 @@
 import React from 'react';
 import {View, Text, Image, ImageBackground, Pressable} from 'react-native';
 import CustomInput from '../../components/CustomInput/input';
-import Head from '../../components/Header/header';
+
 import style from './style';
 import CustomButton from '../../components/CustomButton/button';
 import {useState} from 'react';
 import {data} from './dymmy';
 import {Alert} from 'react-native';
-import Home from '../Home/home';
 
 const Login = ({navigation}) => {
   const [UserName, setUserName] = useState('');
