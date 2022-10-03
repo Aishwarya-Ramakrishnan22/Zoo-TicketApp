@@ -1,6 +1,10 @@
 # Zoo-TicketApp
 
 
+## Note : USE YARN PKG MANAGER
+
+
+
 ###### ToDo
 
 
